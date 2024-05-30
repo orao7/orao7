@@ -2,7 +2,7 @@
 #### Data Science & Data Analysis
 Hello, my name is Burak. I am engaged in data analysis and data science, utilizing Python to make sense of large datasets and make future predictions. I also have experience in data visualization using Power BI. Additionally, I write bot software using specific libraries for data mining. I create datasets for my deep learning and machine learning models.
 
-Skills: Pyhton/Java
+Skills: Pyhton/Java/Power BI
 
 - 🔭 I’m currently working on this page. 
 
